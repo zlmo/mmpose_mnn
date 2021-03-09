@@ -1,5 +1,5 @@
 # mmpose_mnn
-    MNN version of MMPOSE inference.
+    MNN version of MMPOSE inference, for pose estimation.
     C++ implementation of mmpose inference process,based on MNN.
 # Usage
     1.Choose a mmpose model and convert it to MNN, pth->onnx->mnn.
